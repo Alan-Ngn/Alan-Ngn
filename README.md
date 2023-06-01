@@ -34,7 +34,7 @@
  [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Alan-Ngn&theme=cobalt&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
  <div align ='center'>
-<a href="www.linkedin.com/in/alannguyen21" target="_blank" >
+<a href="https://www.linkedin.com/in/alannguyen21" target="_blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://wellfound.com/u/alan-nguyen-31" target="_blank">
